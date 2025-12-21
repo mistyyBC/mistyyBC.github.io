@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Fanfiction</title>
+  <style>
+    body {
+      font-family: Georgia, serif;
+      background-color: #fdf6f0;
+      color: #333;
+      text-align: center;
+      padding: 20px;
+    }
+
+    h1 {
+      color: #8b5cf6;
+    }
+
+    .story {
+      background: white;
+      padding: 15px;
+      margin: 20px auto;
+      max-width: 600px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+
+    a {
+      color: #8b5cf6;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Welcome, to Drown In Roses</h1>
+  <p>hii, this is the OFFICAL website for my website!</p>
+
+  <div class="story">
+    <h2>Drown In Roses</h2>
+    <p>II • Fanfiction • ORIGINAL</p>
+    <p>Have you ever wondered what'll happen if you had planned on getting revenge, but your plan failed and it happened too the wrong person? What if that plan had failed horribly and then affected the wrong person and then started slowly affecting everyone else?</p>
+    <a href="#">Read Chapter 1 now!!</a>
+  </div>
+
+  <div class="story">
+    <h2>Soon to be artbook</h2>
+    <p>II • art • OG ART</p>
+    <p>I get to have a artbook? Say less.</p>
+    <a href="#">Read Chapter 1</a>
+  </div>
+  <a href="https://www.wattpad.com/story/399700047-drown-in-roses-a-inanimate-insanity-au"
+   class="wattpad-link"
+   target="_blank">
+  🌹 click to read on Wattpad (quicker updates)
+</a>
+
+
