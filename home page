@@ -38,25 +38,26 @@
 <body>
 
   <h1>Welcome, to Drown In Roses</h1>
-  <p>hii, this is the OFFICAL website for my website!</p>
+  <p>hii, this is the OFFICIAL website for my fanfiction!</p>
 
   <div class="story">
     <h2>Drown In Roses</h2>
     <p>II • Fanfiction • ORIGINAL</p>
-    <p>Have you ever wondered what'll happen if you had planned on getting revenge, but your plan failed and it happened too the wrong person? What if that plan had failed horribly and then affected the wrong person and then started slowly affecting everyone else?</p>
-    <a href="#">Read Chapter 1 now!!</a>
+    <p>
+      Have you ever wondered what'll happen if you had planned on getting revenge,
+      but your plan failed and it happened to the wrong person?
+    </p>
+
+    <!-- 👇 REAL CHAPTER LINK -->
+    <a href="chapter1.html">Read Chapter 1 now!!</a>
   </div>
 
   <div class="story">
     <h2>Soon to be artbook</h2>
     <p>II • art • OG ART</p>
     <p>I get to have a artbook? Say less.</p>
-    <a href="#">Read Chapter 1</a>
+    <a href="artbook1.html">Read Chapter 1</a>
   </div>
-  <a href="https://www.wattpad.com/story/399700047-drown-in-roses-a-inanimate-insanity-au"
-   class="wattpad-link"
-   target="_blank">
-  🌹 click to read on Wattpad (quicker updates)
-</a>
 
-
+</body>
+</html>
